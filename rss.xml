@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[testme]]></title>
+        <description><![CDATA[testme]]></description>
+        <link>https://thegrid.ai/testme/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 14:11:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Truly Tokyo Online Travel Guide]]></title>
+            <description><![CDATA[<article><h1>Truly Tokyo Online Travel Guide</h1><p>Lonely Planet's Japan, Kyoto and Discover Japan guide author Chris Rowthorn, a longtime Kyoto resident who founded Inside Kyoto, has now tackled the city that plays muse to many all over the world: Tokyo. Truly Tokyo is a new online guide, entirely written by Rowthorn himself, that services first-timers and regular visitors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a537e3e634f758df36edc40db381ea53936da3d.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/travel/truly-tokyo-online-travel-guide</link>
+            <guid isPermaLink="false">e7a05738-bbfd-4ba4-8702-ecdca416f5e0</guid>
+            <pubDate>Tue, 21 Jun 2016 14:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updating LA's Historic Hollywood Roosevelt Hotel]]></title>
+            <description><![CDATA[<article><h1>Updating LA's Historic Hollywood Roosevelt Hotel</h1><p>On the roster of storied LA hotels, The Hollywood Roosevelt ranks high on the list, with its blend of Old Hollywood lore and allure. From The Tower to The Cabanas beside their David Hockney-painted pool, the entire property has played host to private parties and even more private conversations that would ultimately impact the surrounding city.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e18d9f17a192906c94659ac2a9c4a14e6edef3b0.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/updating-the-hollywood-roosevelt-hotel-la</link>
+            <guid isPermaLink="false">9b73f59f-dc47-455e-a465-18b98b4a8e62</guid>
+            <pubDate>Tue, 21 Jun 2016 14:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Book Better Airbnbs for Less Money]]></title>
+            <description><![CDATA[<article><h1>How to Book Better Airbnbs for Less Money</h1><p>How to successfully book your first-choice listings and get them for cheaper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ad1631f9488b5c41ba63eb0d4ff8c377b6b850.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/airbnb-hacks-how-to-find-better-cheaper-listings/travel</link>
+            <guid isPermaLink="false">d128a2d2-039b-4fff-b32b-62c878ec37c7</guid>
+            <pubDate>Tue, 21 Jun 2016 14:11:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
